@@ -1,0 +1,29 @@
+body {
+    background-color: #9b9b9b;
+    margin: 0;
+}
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+form {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.resultado {
+    font-family: sans-serif;
+    text-align: center;
+}
