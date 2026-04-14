@@ -14,3 +14,15 @@ function suma() {
 
 let resultado = suma();
 console.log(resultado);
+
+//Al igual que los objetos y arrays, las funciones tambien son de tipo de referencia. Es decir, se almacenan como una referencia en memoria.
+
+//Existen varios tipos de variables:
+//Declaradas
+function saludar () {}
+
+//Expresadas
+let saludar = function() {};
+
+//Arrow functions
+let saludar = () => "Hola";
